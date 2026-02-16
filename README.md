@@ -1,5 +1,8 @@
 # About Me:
-👋 Hello, I'm Caio, student of Information Technology in IFPR (Federal Institute of Paraná).<br>I love  web programming, database administrator.<br>I'm programming logic enthusiast and probleam solver, passionate about challanges like OBI (Brazilian Mathematics Olympiad) solve with C Language.<br><br>HTML | CSS | JavaScript | Git | C | PHP<br><br>Aloha
+👋 Hello, I'm Caio, a student of Information Technology at IFPR (Federal Institute of Paraná).
+I love web programming and database administration.
+I'm a programming logic enthusiast and problem solver, passionate about challenges like solving OBI (Brazilian Mathematics Olympiad) problems with the C language.
+<br><br>HTML | CSS | JavaScript | Git | C | PHP<br><br>Aloha
 
 
 ## 🌐 Socials:
