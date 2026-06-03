@@ -2,7 +2,7 @@
 👋 Hello, I'm Caio, a student of Information Technology at IFPR (Federal Institute of Paraná).
 I love web programming and database administration.
 I'm a programming logic enthusiast and problem solver, passionate about challenges like solving OBI (Brazilian Mathematics Olympiad) problems with the C language.
-<br><br>HTML | CSS | JavaScript | Git | C | Java<br><br>Aloha
+<br><br>C/C++<br><br>Aloha
 
 
 ## 🌐 Socials:
